@@ -1,0 +1,22 @@
+{
+  "format": {
+    "indentStyle": "spaces",
+    "indentWidth": 2,
+    "lineEnding": "lf"
+  },
+  "translation": {
+    "preserveComments": true,
+    "strictTypeMapping": false,
+    "generateSourceMaps": false
+  },
+  "validation": {
+    "enabled": true,
+    "strict": false
+  },
+  "typeMapping": {
+    "CustomType": {
+      "javascript": "CustomJSType",
+      "cpp": "CustomCppType"
+    }
+  }
+}
