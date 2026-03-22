@@ -715,3 +715,4 @@ describe('CppGenerator', () => {
     });
   });
 });
+
